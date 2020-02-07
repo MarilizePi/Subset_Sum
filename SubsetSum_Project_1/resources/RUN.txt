@@ -1,0 +1,64 @@
+Test file: resources/RUN.txt
+budget: 100
+
+NOTES: Testing target budget > sum of all elements.
+-----------------------------------------------------
+
+The list of groceries has 8 items.
+Groceries wanted:
+[2.5, 4.0, 11.5, 7.0, 15.0, 4.0, 6.0, 8.0]
+
+Enter your budget:
+100
+Your budget exceeds the total sum of grocery list. You can buy them all!
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 145100 ns
+Purchased grocery prices are:
+[2.5, 4.0, 11.5, 7.0, 15.0, 4.0, 6.0, 8.0]
+Done with ShoppingBag.
+
+Process finished with exit code 0
+
+---------------------------------------------------
+---------------------------------------------------
+Test file: resources/RUN.txt
+budget: 18.5
+
+NOTES: Testing set of elements found with sums
+       to exactly to target budget.
+---------------------------------------------------
+
+The list of groceries has 8 items.
+Groceries wanted:
+[2.5, 4.0, 11.5, 7.0, 15.0, 4.0, 6.0, 8.0]
+
+Enter your budget:
+18.5
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 242600 ns
+Purchased grocery prices are:
+[11.5, 7.0]
+Done with ShoppingBag.
+
+Process finished with exit code 0
+
+---------------------------------------------------
+---------------------------------------------------
+Test file: resources/RUN.txt
+budget: 11.5
+
+NOTES: Testing target budget returning closest match.
+---------------------------------------------------
+The list of groceries has 8 items.
+Groceries wanted:
+[2.5, 4.0, 11.5, 7.0, 15.0, 4.0, 6.0, 8.0]
+
+Enter your budget:
+11.5
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 849900 ns
+Purchased grocery prices are:
+[4.0, 7.0]
+Done with ShoppingBag.
+
+Process finished with exit code 0

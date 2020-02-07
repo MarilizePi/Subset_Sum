@@ -1,0 +1,8 @@
+bread,5
+cake,15.50
+lettuce,1
+potato,3.50
+pasta,2
+ice cream,5
+paper towel,9.50
+sardine,1.50

@@ -1,0 +1,8 @@
+mango,1
+rice,2
+sushi,15.50
+detergent,4
+salami,8.50
+popcorn,3.50
+crackers,5
+orange,0.50
